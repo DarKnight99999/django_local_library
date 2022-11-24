@@ -1,0 +1,16 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+  }
+
+.sidebar-nav a {
+    text-decoration: none;
+}
+
+.createButton a {
+    position: absolute;
+    top: 15px;
+    right: 20%;
+    text-decoration: none;
+}
